@@ -1,0 +1,91 @@
+[33mcommit fcf46004a5005596732a99e08bd275e58d1371c2[m[33m ([m[1;36mHEAD -> [m[1;32mvatsal_backEnd[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Gaurav Roy <32664953+gaurav7557@users.noreply.github.com>
+Date:   Thu May 6 19:46:51 2021 +0530
+
+     Added carousel and footer components after review (#11) (#13)
+    
+    * Added PRD and OnePager
+    
+    * PRD AND ONEPAGER after review
+    
+    * Technical requirement - frontend
+    
+    * Create UI MockUps.pdf
+    
+    * Create UI MockUps.pdf
+    
+    * Update UI MockUps.pdf
+    
+    * Carousel and footer components
+    
+    * Footer changes
+    
+    * Footer review and some other changes
+    
+    * Changes in Carousel and footer after review
+    
+    * Carousel component and footer component
+    
+    * Category component - homepage complete
+    
+    Co-authored-by: Ajinkya Pandurang Bodade <bodadeajinkya@gmail.com>
+
+[33mcommit 314d9724e21028fbb11abf66e1bd05d1fc670873[m
+Author: Amanjot Singh <amandhunna.dev@gmail.com>
+Date:   Thu Apr 29 19:19:43 2021 +0530
+
+    Aman main, client app basic structure (#8)
+    
+    * create react app init
+    
+    * added normalize css
+    
+    * added two  modes for app 1. main app 2. test component mode
+    
+    * added files -> base helper, logger, config, global context and constants
+    
+    * updated Readme.md
+    
+    * added marigin:0, padding:0 and box-sizing: borderbox to all elements
+
+[33mcommit c4e916ce20cdb0ea9155d3759117fc473fc79032[m
+Author: Ajinkya Pandurang Bodade <bodadeajinkya@gmail.com>
+Date:   Tue Apr 27 17:54:20 2021 +0530
+
+    Updated UI mockups (#6)
+    
+    * Added PRD and OnePager
+    
+    * PRD AND ONEPAGER after review
+    
+    * Technical requirement - frontend
+    
+    * Create UI MockUps.pdf
+    
+    * Create UI MockUps.pdf
+    
+    * Update UI MockUps.pdf
+
+[33mcommit 2e4465ea15551e0e002e35fa371a969b9d654128[m
+Author: Vatsal <vatsalpatel1073@gmail.com>
+Date:   Mon Apr 26 13:56:59 2021 +0530
+
+     added techspecs to new_branch (#5)
+
+[33mcommit fbd367e813c3dfd185e5808e6c207778ea62f650[m
+Author: Gaurav Roy <gauravroy@WUNDELCANB751.fareast.corp.microsoft.com>
+Date:   Tue Apr 20 19:13:03 2021 +0530
+
+    Correcting the Docs
+
+[33mcommit 0e48cebd77255192b9ad2a0450893c517a8c3a61[m
+Author: Ajinkya Pandurang Bodade <bodadeajinkya@gmail.com>
+Date:   Tue Apr 20 11:18:56 2021 +0530
+
+    Added PRD and OnePager (#1)
+
+[33mcommit e69e93625d6b922727ba779006fadf39734ab061[m
+Author: Gaurav Roy <gauravroy@Gauravs-MacBook-Pro-2.local>
+Date:   Mon Apr 19 20:56:06 2021 +0530
+
+    first commit - for Readme
