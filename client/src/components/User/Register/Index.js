@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 
 import {
   LoginWrapper,
@@ -9,9 +9,9 @@ import {
   LoginFormHeader,
   LoginFormItem,
   LoginSubmit,
-  LoginHint,
   LoginSocials,
 } from "../Login/Styles";
+
 import { useHistory } from "react-router-dom";
 
 import { useStateValue } from "../../../context/StateProvider";
@@ -19,8 +19,9 @@ import { useStateValue } from "../../../context/StateProvider";
 import { auth, db } from "../../../config/firebaseConfig";
 
 const Register = () => {
-  const [{ user }, dispatch] = useStateValue();
   const history = useHistory();
+
+  const [{ user }, dispatch] = useStateValue();
 
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -72,7 +73,7 @@ const Register = () => {
                   placeholder='Frist Name'
                   value={firstName}
                   onChange={(e) => setFirstName(e.target.value)}
-                  autoFocus
+                  autofocus
                   required
                 />
                 <label className='floatingLabel'>Email</label>
@@ -84,7 +85,7 @@ const Register = () => {
                   placeholder='Last Name'
                   value={lastName}
                   onChange={(e) => setLastName(e.target.value)}
-                  autoFocus
+                  autofocus
                   required
                 />
                 <label className='floatingLabel'>Email</label>
@@ -96,7 +97,7 @@ const Register = () => {
                   placeholder='Email'
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
-                  autoFocus
+                  autofocus
                   required
                 />
                 <label className='floatingLabel'>Email</label>
